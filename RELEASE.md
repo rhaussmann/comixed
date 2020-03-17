@@ -1,5 +1,8 @@
 # Release notes.
 
+### 2020-03-17: Release 0.5.2-1.1
+  #173  Revert changes introduced since they created a new bug.
+
 ### 2020-03-13: Release 0.5.2-1
   #178  Unable to import from root of drive.
 
