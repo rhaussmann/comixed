@@ -13,3 +13,8 @@ The latest version may be a development build. Use this to get the latest releas
 You could also pull a specific version:
 
 ```docker run -it -p 7171:7171/tcp -v /PATH/TO/COMICS:/comic_dir -v /PATH/TO/COMIXDB:/root/.comixed comixed/comixed:0.6.0-0```
+
+## To import comics for Mac:
+Assuming the path above, go to Admin > Import Comics and use the following in the path where COMICS is your comic file top level directory:
+
+```/root/.comixed/COMICS/```
